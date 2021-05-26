@@ -3,7 +3,24 @@
     "description": "A collection of events of a wife whose love attack power is 255 but her defensive power is 0.",
     "artist": "Toshinori Yano",
     "author": "Toshinori Yano",
+    "cover": "https://cdn.shopify.com/s/files/1/0406/9320/3096/products/No_Guard_Wife_1-1_1024x1024.jpg?v=1618876340",
     "chapters": {
+        "45": {
+            "title": "White Day",
+            "volume": "5",
+            "groups": {
+            "___trish": "/proxy/api/imgur/chapter/cseW76H/"
+            },
+            "last_updated": "1621628019"
+        },
+        "46": {
+            "title": "Day after White Day",
+            "volume": "5",
+            "groups": {
+            "___trish": "/proxy/api/imgur/chapter/btw2gjl/"
+            },
+            "last_updated": "1621628019"
+        },
         "47": {
             "title": "April Fool's Day",
             "volume": "5",
