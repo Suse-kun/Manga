@@ -4,13 +4,13 @@
     "artist": "Toshinori Yano",
     "author": "Toshinori Yano",
     "chapters": {
-    "47": {
-        "title": "April Fool's Day",
-        "volume": "5",
-        "groups": {
-        "___trish": "/proxy/api/imgur/chapter/42VXbLI/"
-        },
-        "last_updated": "1621887143"
-    },
+        "47": {
+            "title": "April Fool's Day",
+            "volume": "5",
+            "groups": {
+            "___trish": "/proxy/api/imgur/chapter/42VXbLI/"
+            },
+            "last_updated": "1621887143"
+        }
     }
 }
