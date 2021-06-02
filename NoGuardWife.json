@@ -31,11 +31,19 @@
         },
         "48": {
             "title": "Sea Urchin",
-            "volume": "5",
+            "volume": "6",
             "groups": {
             "___trish": "/proxy/api/imgur/chapter/TzU18pr/"
             },
             "last_updated": "1622230032"
+        },
+        "49": {
+            "title": "Flower Viewing",
+            "volume": "6",
+            "groups": {
+            "___trish": "/proxy/api/imgur/chapter/RQuhYpi/"
+            },
+            "last_updated": "1622661169"
         }
     }
 }
