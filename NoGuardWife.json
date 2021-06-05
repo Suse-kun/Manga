@@ -5,6 +5,14 @@
     "author": "Toshinori Yano",
     "cover": "https://cdn.shopify.com/s/files/1/0406/9320/3096/products/No_Guard_Wife_1-1_1024x1024.jpg?v=1618876340",
     "chapters": {
+        "1": {
+            "title": "Wife",
+            "volume": "1",
+            "groups": {
+            "Horrible Scans": "/proxy/api/imgur/chapter/uYrYr8O/"
+            },
+            "last_updated": "1533278776"
+        },
         "45": {
             "title": "White Day",
             "volume": "5",
